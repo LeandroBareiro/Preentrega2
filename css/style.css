@@ -10,9 +10,7 @@ body {
     text-align: center;
 }
 .cervezas {
-    margin-top: 50px;
-    color: blueviolet;
-    text-align: center;
+    margin-top: 5px;
 }
 footer {
     margin-top: 60px;
@@ -26,6 +24,7 @@ footer {
     text-align: center;
 }
 .formulario {
+    background-image: linear-gradient(to bottom, red, orange, yellow, green, blue, purple);
     color: blueviolet;
 }
 .titulo-contacto {
